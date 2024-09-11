@@ -6,3 +6,4 @@ seaborn
 tensorflow
 scikit-learn
 opencv-python
+nltk

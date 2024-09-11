@@ -3,3 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
+tensorflow
+scikit-learn
+opencv-python

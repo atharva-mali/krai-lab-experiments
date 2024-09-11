@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90cf5286-27ad-4385-ba66-4154bc4ea757" name="Changes" comment="Added new Experiments">
-      <change afterPath="$PROJECT_DIR$/EXP11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXP4.ipynb" afterDir="false" />
+    <list default="true" id="90cf5286-27ad-4385-ba66-4154bc4ea757" name="Changes" comment="Added new Experiments 4 and 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXP8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP8.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +114,7 @@
       <workItem from="1725022334258" duration="4429000" />
       <workItem from="1725084273428" duration="2135000" />
       <workItem from="1725345519127" duration="12000" />
-      <workItem from="1725951250153" duration="11925000" />
+      <workItem from="1725951250153" duration="12589000" />
     </task>
     <task id="LOCAL-00001" summary="Added new experiments">
       <option name="closed" value="true" />
@@ -135,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726044349341</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new Experiments 4 and 11">
+      <option name="closed" value="true" />
+      <created>1726045597252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726045597252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +158,7 @@
     <MESSAGE value="Added new experiments" />
     <MESSAGE value="Added new exp" />
     <MESSAGE value="Added new Experiments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new Experiments" />
+    <MESSAGE value="Added new Experiments 4 and 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new Experiments 4 and 11" />
   </component>
 </project>
